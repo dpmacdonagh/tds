@@ -600,7 +600,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40469de3322384b8da9f8506c466d620, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputField: {fileID: 1549134896}
+  inputField: {fileID: 0}
 --- !u!1 &1586259913
 GameObject:
   m_ObjectHideFlags: 0
